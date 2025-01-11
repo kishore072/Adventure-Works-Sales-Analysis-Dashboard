@@ -1,4 +1,4 @@
-># Adventure Works Sales Analysis Dashboard
+# Adventure Works Sales Analysis Dashboard
 The Adventure Works Sales Analysis Dashboard is an analytical and heuristic illustration project to consider the essential variables influencing the online platform’s sales performance. The dashboard was designed with Power BI and it also integrates sales figures, products and customers and sales profitability to inform the records.
 
 Key Features
